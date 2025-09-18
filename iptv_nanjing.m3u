@@ -69,7 +69,7 @@ http://180.165.20.37:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 http://180.165.14.53:9902/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="百事通超级体育" tvg-name="百事通超级体育" tvg-logo="百事通超级体育" group-title="地方台",百事通超级体育
 http://180.165.14.53:9902/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视" group-title="省内",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视" group-title="卫视",江苏卫视
 http://218.94.31.154:1111/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="浙江卫视" group-title="卫视",浙江卫视
 http://218.94.31.154:1111/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -117,25 +117,25 @@ http://218.94.31.154:1111/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.94.31.154:1111/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://218.94.31.154:1111/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视" group-title="卫视台",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视" group-title="卫视",内蒙古卫视
 http://180.165.20.37:7777/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="山西卫视" group-title="卫视台",山西卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="山西卫视" group-title="卫视",山西卫视
 http://180.165.20.37:7777/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="陕西卫视" group-title="卫视台",陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="陕西卫视" group-title="卫视",陕西卫视
 http://180.165.20.37:7777/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="甘肃卫视" group-title="卫视台",甘肃卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="甘肃卫视" group-title="卫视",甘肃卫视
 http://180.165.20.37:7777/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视" group-title="卫视台",青海卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视" group-title="卫视",青海卫视
 http://180.165.20.37:7777/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="宁夏卫视" group-title="卫视台",宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="宁夏卫视" group-title="卫视",宁夏卫视
 http://180.165.20.37:7777/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="新疆卫视" group-title="卫视台",新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="新疆卫视" group-title="卫视",新疆卫视
 http://180.165.20.37:7777/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="西藏卫视" group-title="卫视台",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="西藏卫视" group-title="卫视",西藏卫视
 http://180.165.20.37:7777/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="三沙卫视" group-title="卫视台",三沙卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="三沙卫视" group-title="卫视",三沙卫视
 http://180.165.20.37:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="兵团卫视" group-title="卫视台",兵团卫视
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="兵团卫视" group-title="卫视",兵团卫视
 http://180.165.20.37:7777/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="康巴卫视" group-title="卫视",康巴卫视
 http://180.165.14.53:9902/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -151,7 +151,7 @@ http://180.165.20.37:7777/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 http://180.165.20.37:7777/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="哈哈炫动" group-title="其他",哈哈炫动
 http://180.165.14.53:9902/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="金鹰卡通" group-title="推荐",金鹰卡通
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="金鹰卡通" group-title="其他",金鹰卡通
 http://218.94.31.154:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="嘉佳卡通" group-title="其他",嘉佳卡通
 http://180.165.20.37:7777/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
