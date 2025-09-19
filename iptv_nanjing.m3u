@@ -7,10 +7,14 @@ http://218.94.31.154:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.94.31.154:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV4-国际" tvg-name="CCTV4-国际" tvg-logo="CCTV4-国际" group-title="央视",CCTV4-国际
 http://218.94.31.154:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV4-欧洲" tvg-name="CCTV4-欧洲" tvg-logo="CCTV4-欧洲" group-title="央视",CCTV4-欧洲
+http://openwrt.guidang.net:1688/rtp/225.1.8.174:4222
+#EXTINF:-1 tvg-id="CCTV4-美洲" tvg-name="CCTV4-美洲" tvg-logo="CCTV4-美洲" group-title="央视",CCTV4-美洲
+http://openwrt.guidang.net:1688/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="CCTV5-体育" tvg-name="CCTV5-体育" tvg-logo="CCTV5-体育" group-title="央视",CCTV5-体育
 http://218.94.31.154:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="CCTV5+" group-title="央视",CCTV5+体育赛事
-http://114.232.119.188:8889/rtp/239.49.8.18:9610
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
+http://openwrt.guidang.net:1688/rtp/225.1.8.20:8004
 #EXTINF:-1 tvg-id="CCTV6-电影" tvg-name="CCTV6-电影" tvg-logo="CCTV6-电影" group-title="央视",CCTV6-电影
 http://218.94.31.154:1111/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV7-国防军事" tvg-name="CCTV7-国防军事" tvg-logo="CCTV7-国防军事" group-title="央视",CCTV7-国防军事
@@ -141,6 +145,8 @@ http://openwrt.guidang.net:1688/rtp/225.1.8.211:8002
 http://yaching.xmtcenter.com:9999/rtp/239.254.200.122:7266
 #EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="云南4K" group-title="4k",云南4K 
 http://www.gen8.cc:5555/rtp/239.200.200.178:8884
+#EXTINF:-1 tvg-id="河南4K实验" tvg-name="河南4K实验" tvg-logo="河南4K实验" group-title="4k",河南4K实验 
+http://171.8.169.34:8800/rtp/239.16.10.210:2000
 #EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="中国教育1" group-title="教育频道",中国教育1
 http://114.232.119.188:8889/rtp/239.49.8.115:8000
 #EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" tvg-logo="中国教育2" group-title="教育频道",中国教育2
@@ -321,6 +327,6 @@ http://218.79.218.101:8899/rtp/239.45.3.134:5140
 http://218.79.218.101:8899/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场" group-title="其他",欢笑剧场
 http://218.79.218.101:8899/rtp/239.45.1.4:5140
-#EXTINF:-1 tvg-id="2025-09-19 15:39:36" tvg-name="2025-09-19 15:39:36" tvg-logo="2025-09-19 15:39:36" group-title="更新时间",2025-09-19 15:39:36
-
+#EXTINF:-1 tvg-id="2025-09-19 21:30:36" tvg-name="2025-09-19 21:30:36" tvg-logo="2025-09-19 21:30:36" group-title="更新时间",2025-09-19 21:30:36
 https://taoiptv.com/time.mp4
+
