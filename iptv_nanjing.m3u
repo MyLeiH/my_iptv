@@ -154,6 +154,8 @@ http://106.8.17.17:14258/rtp/239.254.200.122:7266
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="CCTV4K" group-title="4k",CCTV4K
 http://27.191.202.92:19999/rtp/239.254.200.122:7266
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="CCTV4K" group-title="4k",CCTV4K
+http://kictoc.top:7000/rtp/239.254.200.122:7266
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="CCTV4K" group-title="4k",CCTV4K
 http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
 #EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="云南4K" group-title="4k",云南4K 
 http://www.gen8.cc:5555/rtp/239.200.200.178:8884
@@ -225,6 +227,7 @@ http://218.79.218.101:8899/rtp/239.45.3.136:5140
 http://218.79.218.101:8899/rtp/239.45.1.4:5140
 #EXTINF:-1 tvg-id="2025-09-20 16:51:36" tvg-name="2025-09-20 16:51:36" tvg-logo="2025-09-20 16:51:36" group-title="更新时间",2025-09-20 16:51:36
 https://taoiptv.com/time.mp4
+
 
 
 
