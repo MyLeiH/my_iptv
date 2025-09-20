@@ -140,7 +140,7 @@ http://www.bigyan.cn:8225/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="北京IPTV 4K" tvg-name="北京IPTV 4K" tvg-logo="北京IPTV 4K" group-title="4k",北京IPTV 4K
 http://openwrt.guidang.net:1688/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="CCTV4K" group-title="4k",CCTV4K 
-http://yaching.xmtcenter.com:9999/rtp/239.254.200.122:7266
+http://106.8.17.17:14258/rtp/239.254.200.122:7266
 #EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="云南4K" group-title="4k",云南4K 
 http://www.gen8.cc:5555/rtp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="河南4K实验" tvg-name="河南4K实验" tvg-logo="河南4K实验" group-title="4k",河南4K实验 
@@ -207,6 +207,7 @@ http://218.79.218.101:8899/rtp/239.45.3.136:5140
 http://218.79.218.101:8899/rtp/239.45.1.4:5140
 #EXTINF:-1 tvg-id="2025-09-20 12:51:36" tvg-name="2025-09-20 12:51:36" tvg-logo="2025-09-20 12:51:36" group-title="更新时间",2025-09-20 12:51:36
 https://taoiptv.com/time.mp4
+
 
 
 
