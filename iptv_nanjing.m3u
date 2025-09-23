@@ -14,6 +14,8 @@ http://115.171.234.4:7777/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="CCTV5-体育" tvg-name="CCTV5-体育" tvg-logo="CCTV5-体育" group-title="央视",CCTV5-体育
 http://218.94.31.154:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
+http://1.203.77.60:8899/udp/225.1.8.20:8004
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
 http://168250.xyz:1111/rtp/239.5.1.7:5000
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
 http://183.53.109.94:9090/udp/239.77.0.87:5146
@@ -44,7 +46,11 @@ http://106.8.17.17:14258/rtp/239.254.201.120:8144
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="CCTV风云音乐" group-title="央视",CCTV风云音乐
 http://110.180.148.5:8933/rtp/239.1.1.96:8096
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="CCTV世界地理" group-title="央视",CCTV世界地理
+http://221.232.103.41:8686/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="CCTV世界地理" group-title="央视",CCTV世界地理
 http://110.180.148.5:8933/rtp/239.1.1.99:8099
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="CCTV第一剧场" group-title="央视",CCTV第一剧场
+http://221.232.103.41:8686/rtp/239.69.1.74:10084
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="CCTV第一剧场" group-title="央视",CCTV第一剧场
 http://110.180.148.5:8933/rtp/239.1.1.94:8094
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="CCTV风云剧场" group-title="央视",CCTV风云剧场
@@ -52,9 +58,15 @@ http://www.bigyan.cn:8225/rtp/239.253.43.16:5146
 #EXTINF:-1 tvg-id="CCTV央视精品" tvg-name="CCTV央视精品" tvg-logo="CCTV央视精品" group-title="央视",CCTV央视精品
 http://www.bigyan.cn:8225/rtp/239.253.43.13:5146
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="CCTV兵器科技" group-title="央视",CCTV兵器科技
+http://221.232.103.41:8686/rtp/239.69.1.79:10114
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="CCTV兵器科技" group-title="央视",CCTV兵器科技
 http://www.bigyan.cn:8225/rtp/239.253.43.18:5146
 #EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="CCTV风云足球" group-title="央视",CCTV风云足球
+http://221.232.103.41:8686/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="CCTV风云足球" group-title="央视",CCTV风云足球
 http://www.bigyan.cn:8225/rtp/239.253.43.14:5146
+#EXTINF:-1 tvg-id="CCTV高网频道" tvg-name="CCTV高网频道" tvg-logo="CCTV高网频道" group-title="央视",CCTV高网频道
+http://221.232.103.41:8686/rtp/239.69.1.83:10138
 #EXTINF:-1 tvg-id="CCTV高网频道" tvg-name="CCTV高网频道" tvg-logo="CCTV高网频道" group-title="央视",CCTV高网频道
 http://110.180.148.5:8933/rtp/239.1.1.102:8102
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="CCTV怀旧剧场" group-title="央视",CCTV怀旧剧场
@@ -63,6 +75,8 @@ http://www.bigyan.cn:8225/rtp/239.253.43.25:5146
 http://www.bigyan.cn:8225/rtp/239.253.43.23:5146
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="CCTV央视台球" group-title="央视",CCTV央视台球
 http://www.bigyan.cn:8225/rtp/239.253.43.11:5146
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="CCTV央视台球" group-title="央视",CCTV央视台球
+http://221.232.103.41:8686/rtp/239.69.1.98:10224
 #EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="CCTV电视指南" group-title="央视",CCTV电视指南
 http://www.bigyan.cn:8225/rtp/239.253.43.10:5146
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视" group-title="卫视",江苏卫视
@@ -173,26 +187,28 @@ http://113.245.248.157:60001/udp/239.76.246.230:1234
 https://cdn3.163189.xyz/163189/szws4k
 #EXTINF:-1 tvg-id="河南4K实验" tvg-name="河南4K实验" tvg-logo="河南4K实验" group-title="4k",河南4K实验 
 http://171.8.169.34:8800/rtp/239.16.10.210:2000
+#EXTINF:-1 tvg-id="河南4K实验" tvg-name="河南4K实验" tvg-logo="河南4K实验" group-title="4k",河南4K实验 
+http://125.46.143.49:8888/rtp/225.1.4.254:1300
+#EXTINF:-1 tvg-id="河南4K实验" tvg-name="河南4K实验" tvg-logo="河南4K实验" group-title="4k",河南4K实验 
+http://125.44.167.35:4003/rtp/225.1.4.254:1300
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="苏州4K" group-title="4k",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="河北4K" group-title="4k",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="湖南4K" tvg-name="湖南4K" tvg-logo="湖南4K" group-title="4k",湖南4K
-http://121.60.57.152:10001/rtp/239.69.1.27:9802
-#EXTINF:-1 tvg-id="湖南4K" tvg-name="湖南4K" tvg-logo="湖南4K" group-title="4k",湖南4K
-http://59.173.121.38:8989/rtp/239.69.1.13:9718
+http://221.232.103.41:8686/rtp/239.69.1.27:9802
 #EXTINF:-1 tvg-id="浙江4K" tvg-name="浙江4K" tvg-logo="浙江4K" group-title="4k",浙江4K
-http://59.173.121.38:8989/rtp/239.69.1.25:9790
-#EXTINF:-1 tvg-id="浙江4K" tvg-name="浙江4K" tvg-logo="浙江4K" group-title="4k",浙江4K
-http://121.60.57.152:10001/rtp/239.69.1.25:9790
+http://221.232.103.41:8686/rtp/239.69.1.25:9790
 #EXTINF:-1 tvg-id="山东4K" tvg-name="山东4K" tvg-logo="山东4K" group-title="4k",山东4K
-http://59.173.121.38:8989/rtp/239.69.1.26:9796
-#EXTINF:-1 tvg-id="山东4K" tvg-name="山东4K" tvg-logo="山东4K" group-title="4k",山东4K
-http://121.60.57.152:10001/rtp/239.69.1.26:9796
+http://221.232.103.41:8686/rtp/239.69.1.26:9796
 #EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="百事通4K" group-title="4k",百事通4K
-http://116.235.252.180:8888/udp/239.45.1.42:5140
+http://180.165.27.52:8686/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="百事通4K" group-title="4k",百事通4K
-http://116.235.252.180:8888/udp/239.45.3.107:5140
+http://116.192.6.7:6888/udp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="百事通4K" group-title="4k",百事通4K
+http://180.165.27.52:8686/udp/239.45.3.107:5140
+#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="百事通4K" group-title="4k",百事通4K
+http://116.192.6.7:6888/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="中国教育1" group-title="教育频道",中国教育1
 http://openwrt.guidang.net:1688/rtp/225.1.8.32:8152
 #EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" tvg-logo="中国教育2" group-title="教育频道",中国教育2
@@ -251,8 +267,9 @@ http://www.wyn.pp.ua:4000/rtp/239.1.1.76:8076
 http://vpn.jk960.cn:8686/rtp/239.253.43.98:5146
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场" group-title="其他",欢笑剧场
 http://168250.xyz:1111/rtp/239.5.1.39:5000
-#EXTINF:-1 tvg-id="2025-09-22 19:39:36" tvg-name="2025-09-21 19:39:36" tvg-logo="2025-09-22 19:39:36" group-title="更新时间",2025-09-22 19:39:36
+#EXTINF:-1 tvg-id="2025-09-23 10:58:36" tvg-name="2025-09-23 10:58:36" tvg-logo="2025-09-23 10:58:36" group-title="更新时间",2025-09-23 10:58:36
 https://taoiptv.com/time.mp4
+
 
 
 
