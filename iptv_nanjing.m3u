@@ -14,8 +14,6 @@ http://115.171.234.4:7777/rtp/225.1.8.175:4222
 #EXTINF:-1 tvg-id="CCTV5-体育" tvg-name="CCTV5-体育" tvg-logo="CCTV5-体育" group-title="央视",CCTV5-体育
 http://218.94.31.154:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
-http://1.203.77.60:8899/udp/225.1.8.20:8004
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
 http://168250.xyz:1111/rtp/239.5.1.7:5000
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
 http://183.53.109.94:9090/udp/239.77.0.87:5146
@@ -196,9 +194,11 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="河北4K" group-title="4k",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="云南4K" group-title="4k",云南4K
+http://60.161.189.249:5555/rtp/239.200.200.178:8884
+#EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="云南4K" group-title="4k",云南4K
 http://106.59.3.88:55555/rtp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="四川4K" tvg-name="四川4K" tvg-logo="四川4K" group-title="4k",四川4K
-http://219.144.150.65:10000/rtp/239.111.205.61:5140
+http://219.144.150.65:10000/rtp/239.111.205.62:5140
 #EXTINF:-1 tvg-id="四川4K" tvg-name="四川4K" tvg-logo="四川4K" group-title="4k",四川4K
 http://124.116.170.138:8081/rtp/239.111.205.62:5140
 #EXTINF:-1 tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="江苏4K" group-title="4k",江苏4K
@@ -305,5 +305,5 @@ http://www.wyn.pp.ua:4000/rtp/239.1.1.76:8076
 http://vpn.jk960.cn:8686/rtp/239.253.43.98:5146
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场" group-title="其他",欢笑剧场
 http://168250.xyz:1111/rtp/239.5.1.39:5000
-#EXTINF:-1 tvg-id="2025-09-23 20:50:36" tvg-name="2025-09-23 20:50:36" tvg-logo="2025-09-23 20:50:36" group-title="更新时间",2025-09-23 20:50:36
+#EXTINF:-1 tvg-id="2025-09-24 09:50:36" tvg-name="2025-09-24 09:50:36" tvg-logo="2025-09-24 09:50:36" group-title="更新时间",2025-09-24 09:50:36
 https://taoiptv.com/time.mp4
