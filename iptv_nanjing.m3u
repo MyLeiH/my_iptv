@@ -150,6 +150,8 @@ http://110.180.148.5:8933/rtp/239.1.1.58:8058
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="康巴卫视" group-title="卫视",康巴卫视
 http://uo202.1985001.xyz:66/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="广东4k(4K)" tvg-name="广东4k(4K)" tvg-logo="广东4k(4K)" group-title="4k",广东4k(4K)
+http://36.24.119.23:9050/udp/233.50.202.101:5140
+#EXTINF:-1 tvg-id="广东4k(4K)" tvg-name="广东4k(4K)" tvg-logo="广东4k(4K)" group-title="4k",广东4k(4K)
 http://www.bigyan.cn:8225/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东4k(4K)" tvg-name="广东4k(4K)" tvg-logo="广东4k(4K)" group-title="4k",广东4k(4K)
 http://www.bigyan.cn:8225/rtp/239.77.0.245:5146
@@ -163,6 +165,8 @@ http://sub.mtoo.vip:8333/rtp/239.77.0.244:5146
 http://sub.mtoo.vip:8333/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-id="广东4k(4K)" tvg-name="广东4k(4K)" tvg-logo="广东4k(4K)" group-title="4k",广东4k(4K)
 http://58.63.67.137:8888/udp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="北京IPTV 4K" tvg-name="北京IPTV 4K" tvg-logo="北京IPTV 4K" group-title="4k",北京IPTV 4K
+http://36.24.119.23:9050/udp/233.50.202.100:5140
 #EXTINF:-1 tvg-id="北京IPTV 4K" tvg-name="北京IPTV 4K" tvg-logo="北京IPTV 4K" group-title="4k",北京IPTV 4K
 http://openwrt.guidang.net:1688/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="北京IPTV 4K" tvg-name="北京IPTV 4K" tvg-logo="北京IPTV 4K" group-title="4k",北京IPTV 4K
@@ -182,6 +186,8 @@ http://b.402089.xyz:4022/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="CCTV16-4K" group-title="4k",CCTV16-4K
 http://113.245.248.157:60001/udp/239.76.246.230:1234
 #EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="深圳4K" group-title="4k",深圳4K
+http://36.24.119.23:9050/udp/233.50.202.102:5140
+#EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="深圳4K" group-title="4k",深圳4K
 https://cdn3.163189.xyz/163189/szws4k
 #EXTINF:-1 tvg-id="河南4K实验" tvg-name="河南4K实验" tvg-logo="河南4K实验" group-title="4k",河南4K实验 
 http://171.8.169.34:8800/rtp/239.16.10.210:2000
@@ -198,17 +204,25 @@ http://60.161.189.249:5555/rtp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="云南4K" tvg-name="云南4K" tvg-logo="云南4K" group-title="4k",云南4K
 http://106.59.3.88:55555/rtp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="四川4K" tvg-name="四川4K" tvg-logo="四川4K" group-title="4k",四川4K
+http://36.24.119.23:9050/udp/233.50.202.109:5140
+#EXTINF:-1 tvg-id="四川4K" tvg-name="四川4K" tvg-logo="四川4K" group-title="4k",四川4K
 http://219.144.150.65:10000/rtp/239.111.205.62:5140
 #EXTINF:-1 tvg-id="四川4K" tvg-name="四川4K" tvg-logo="四川4K" group-title="4k",四川4K
 http://124.116.170.138:8081/rtp/239.111.205.62:5140
+#EXTINF:-1 tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="江苏4K" group-title="4k",江苏4K
+http://36.24.119.23:9050/udp/233.50.202.107:5140
 #EXTINF:-1 tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="江苏4K" group-title="4k",江苏4K
 http://219.144.150.65:10000/rtp/239.111.205.64:5140
 #EXTINF:-1 tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="江苏4K" group-title="4k",江苏4K
 http://124.116.170.138:8081/rtp/239.111.205.64:5140
 #EXTINF:-1 tvg-id="东方4K" tvg-name="东方4K" tvg-logo="东方4K" group-title="4k",东方4K
+http://36.24.119.23:9050/udp/233.50.202.105:5140
+#EXTINF:-1 tvg-id="东方4K" tvg-name="东方4K" tvg-logo="东方4K" group-title="4k",东方4K
 http://219.144.150.65:10000/rtp/239.111.205.67:5140
 #EXTINF:-1 tvg-id="东方4K" tvg-name="东方4K" tvg-logo="东方4K" group-title="4k",东方4K
 http://124.116.170.138:8081/rtp/239.111.205.67:5140
+#EXTINF:-1 tvg-id="湖南4K" tvg-name="湖南4K" tvg-logo="湖南4K" group-title="4k",湖南4K
+http://36.24.119.23:9050/udp/233.50.202.106:5140
 #EXTINF:-1 tvg-id="湖南4K" tvg-name="湖南4K" tvg-logo="湖南4K" group-title="4k",湖南4K
 http://xiaochen.cyou:4022/rtp/239.69.1.27:9802
 #EXTINF:-1 tvg-id="湖南4K" tvg-name="湖南4K" tvg-logo="湖南4K" group-title="4k",湖南4K
@@ -220,6 +234,8 @@ http://221.232.103.41:8686/rtp/239.69.1.27:9802
 #EXTINF:-1 tvg-id="湖南4K" tvg-name="湖南4K" tvg-logo="湖南4K" group-title="4k",湖南4K
 http://124.116.170.138:8081/rtp/239.111.205.63:5140
 #EXTINF:-1 tvg-id="浙江4K" tvg-name="浙江4K" tvg-logo="浙江4K" group-title="4k",浙江4K
+http://36.24.119.23:9050/udp/233.50.202.104:5140
+#EXTINF:-1 tvg-id="浙江4K" tvg-name="浙江4K" tvg-logo="浙江4K" group-title="4k",浙江4K
 http://xiaochen.cyou:4022/rtp/239.69.1.25:9790
 #EXTINF:-1 tvg-id="浙江4K" tvg-name="浙江4K" tvg-logo="浙江4K" group-title="4k",浙江4K
 http://219.144.150.65:10000/rtp/239.111.205.65:5140
@@ -229,6 +245,8 @@ http://www.nausica.top:8000/rtp/239.69.1.25:9790
 http://221.232.103.41:8686/rtp/239.69.1.25:9790
 #EXTINF:-1 tvg-id="浙江4K" tvg-name="浙江4K" tvg-logo="浙江4K" group-title="4k",浙江4K
 http://124.116.170.138:8081/rtp/239.111.205.65:5140
+#EXTINF:-1 tvg-id="山东4K" tvg-name="山东4K" tvg-logo="山东4K" group-title="4k",山东4K
+http://36.24.119.23:9050/udp/233.50.202.108:5140
 #EXTINF:-1 tvg-id="山东4K" tvg-name="山东4K" tvg-logo="山东4K" group-title="4k",山东4K
 http://xiaochen.cyou:4022/rtp/239.69.1.26:9796
 #EXTINF:-1 tvg-id="山东4K" tvg-name="山东4K" tvg-logo="山东4K" group-title="4k",山东4K
@@ -307,3 +325,4 @@ http://vpn.jk960.cn:8686/rtp/239.253.43.98:5146
 http://168250.xyz:1111/rtp/239.5.1.39:5000
 #EXTINF:-1 tvg-id="2025-09-24 09:50:36" tvg-name="2025-09-24 09:50:36" tvg-logo="2025-09-24 09:50:36" group-title="更新时间",2025-09-24 09:50:36
 https://taoiptv.com/time.mp4
+
