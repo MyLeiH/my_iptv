@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1-综合" tvg-name="CCTV1-综合" tvg-logo="CCTV1-综合" group-title="央视",CCTV1-综合
-http://58.212.139.59:10001/rtp/239.49.8.129:6000
+http://106.8.17.17:14258/rtp/239.254.200.45:8008
+#EXTINF:-1 tvg-id="CCTV1-综合" tvg-name="CCTV1-综合" tvg-logo="CCTV1-综合" group-title="央视",CCTV1-综合
+http://117.86.127.223:8181/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-id="CCTV2-财经" tvg-name="CCTV2-财经" tvg-logo="CCTV2-财经" group-title="央视",CCTV2-财经
-http://58.212.139.59:10001/rtp/239.49.8.130:6000
+http://106.8.17.17:14258/rtp/239.254.200.158:6000
+#EXTINF:-1 tvg-id="CCTV2-财经" tvg-name="CCTV2-财经" tvg-logo="CCTV2-财经" group-title="央视",CCTV2-财经
+http://110.180.148.5:8933/rtp/239.1.1.8:8008
 #EXTINF:-1 tvg-id="CCTV3-综艺" tvg-name="CCTV3-综艺" tvg-logo="CCTV3-综艺" group-title="央视",CCTV3-综艺
 http://106.8.17.17:14258/rtp/239.254.201.152:7205
 #EXTINF:-1 tvg-id="CCTV3-综艺" tvg-name="CCTV3-综艺" tvg-logo="CCTV3-综艺" group-title="央视",CCTV3-综艺
@@ -361,5 +365,5 @@ http://www.wyn.pp.ua:4000/rtp/239.1.1.76:8076
 http://vpn.jk960.cn:8686/rtp/239.253.43.98:5146
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场" group-title="其他",欢笑剧场
 http://168250.xyz:1111/rtp/239.5.1.39:5000
-#EXTINF:-1 tvg-id="2025-09-27 21:20:55" tvg-name="2025-09-27 21:20:55" tvg-logo="2025-09-27 21:20:55" group-title="更新时间",2025-09-27 21:20:55
+#EXTINF:-1 tvg-id="2025-09-27 22:40:55" tvg-name="2025-09-27 22:40:55" tvg-logo="2025-09-27 22:40:55" group-title="更新时间",2025-09-27 22:40:55
 https://taoiptv.com/time.mp4
