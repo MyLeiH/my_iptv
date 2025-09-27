@@ -371,5 +371,5 @@ http://www.wyn.pp.ua:4000/rtp/239.1.1.76:8076
 http://vpn.jk960.cn:8686/rtp/239.253.43.98:5146
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场" group-title="其他",欢笑剧场
 http://168250.xyz:1111/rtp/239.5.1.39:5000
-#EXTINF:-1 tvg-id="2025-09-27 23:07:55" tvg-name="更是时间" tvg-logo="2025-09-27 22:40:55" group-title="更新时间",2025-09-27 22:40:55
+#EXTINF:-1 tvg-id="2025-09-27 23:07:55" tvg-name="2025-09-27 23:07:55" tvg-logo="2025-09-27 23:07:55" group-title="更新时间",2025-09-27 23:07:55
 https://taoiptv.com/time.mp4
