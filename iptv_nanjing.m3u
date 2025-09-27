@@ -4,7 +4,9 @@ http://58.212.139.59:10001/rtp/239.49.8.129:6000
 #EXTINF:-1 tvg-id="CCTV2-财经" tvg-name="CCTV2-财经" tvg-logo="CCTV2-财经" group-title="央视",CCTV2-财经
 http://58.212.139.59:10001/rtp/239.49.8.130:6000
 #EXTINF:-1 tvg-id="CCTV3-综艺" tvg-name="CCTV3-综艺" tvg-logo="CCTV3-综艺" group-title="央视",CCTV3-综艺
-http://58.212.139.59:10001/rtp/239.49.9.31:6000
+http://106.8.17.17:14258/rtp/239.254.201.152:7205
+#EXTINF:-1 tvg-id="CCTV3-综艺" tvg-name="CCTV3-综艺" tvg-logo="CCTV3-综艺" group-title="央视",CCTV3-综艺
+http://111.226.210.36:10010/rtp/239.254.201.152:7205
 #EXTINF:-1 tvg-id="CCTV4-国际" tvg-name="CCTV4-国际" tvg-logo="CCTV4-国际" group-title="央视",CCTV4-国际
 http://58.212.139.59:10001/rtp/239.49.8.131:6000
 #EXTINF:-1 tvg-id="CCTV4-欧洲" tvg-name="CCTV4-欧洲" tvg-logo="CCTV4-欧洲" group-title="央视",CCTV4-欧洲
@@ -343,3 +345,4 @@ http://vpn.jk960.cn:8686/rtp/239.253.43.98:5146
 http://168250.xyz:1111/rtp/239.5.1.39:5000
 #EXTINF:-1 tvg-id="2025-09-27 20:04:55" tvg-name="2025-09-27 20:04:55" tvg-logo="2025-09-27 20:04:55" group-title="更新时间",2025-09-27 20:04:55
 https://taoiptv.com/time.mp4
+
